@@ -1,0 +1,21 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "minecraft:tuff"
+    },
+    {
+      "item": "create:copper_nugget"
+    },
+	{
+      "fluid": "minecraft:water",
+      "amount": 100
+	}
+  ],
+  "results": [
+    {
+      "item": "create:veridium"
+    }
+  ]
+}

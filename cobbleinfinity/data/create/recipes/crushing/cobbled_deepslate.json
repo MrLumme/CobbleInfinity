@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:cobbled_deepslate"
+    }
+  ],
+  "processingTime": 500,
+  "results": [
+    {
+      "chance": 0.80,
+      "item": "create:copper_nugget"
+    }
+  ]
+}

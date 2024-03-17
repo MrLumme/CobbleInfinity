@@ -1,0 +1,14 @@
+{
+  "type": "create:haunting",
+  "ingredients": [
+    {
+      "item": "minecraft:rose_bush"
+    }
+  ],
+  "results": [
+    {
+	  "chance": 0.05,
+      "item": "minecraft:wither_rose"
+    }
+  ]
+}

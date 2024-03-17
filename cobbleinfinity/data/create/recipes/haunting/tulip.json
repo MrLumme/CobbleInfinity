@@ -1,0 +1,26 @@
+{
+  "type": "create:haunting",
+  "ingredients": [
+    {
+      "item": "minecraft:poppy"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.1,
+      "item": "minecraft:red_tulip"
+    },
+    {
+      "chance": 0.1,
+      "item": "minecraft:white_tulip"
+    },
+    {
+      "chance": 0.1,
+      "item": "minecraft:orange_tulip"
+    },
+    {
+      "chance": 0.1,
+      "item": "minecraft:pink_tulip"
+    }
+  ]
+}

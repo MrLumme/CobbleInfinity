@@ -1,0 +1,14 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "minecraft:oxeye_daisy"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.1,
+      "item": "minecraft:lily_of_the_valley"
+    }
+  ]
+}

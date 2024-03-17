@@ -1,0 +1,14 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "minecraft:dark_oak_sapling"
+    }
+  ],
+  "results": [
+    {
+	  "chance": 0.05,
+      "item": "minecraft:mangrove_propagule"
+    }
+  ]
+}

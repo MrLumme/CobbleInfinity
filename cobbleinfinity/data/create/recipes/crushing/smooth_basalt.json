@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:smooth_basalt"
+    }
+  ],
+  "processingTime": 500,
+  "results": [
+    {
+      "chance": 0.12,
+      "item": "create:zinc_nugget"
+    }
+  ]
+}

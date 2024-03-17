@@ -1,0 +1,15 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:granite"
+    }
+  ],
+  "processingTime": 500,
+  "results": [
+    {
+      "chance": 0.1,
+      "item": "minecraft:redstone"
+    }
+  ]
+}

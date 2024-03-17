@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 50,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "minecraft:Poppy"
+  },
+  "result": "minecraft:rose_bush"
+}

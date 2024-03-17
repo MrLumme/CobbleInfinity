@@ -1,0 +1,14 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "minecraft:cornflower"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.1,
+      "item": "minecraft:blue_orchid"
+    }
+  ]
+}

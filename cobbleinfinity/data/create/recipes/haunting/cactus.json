@@ -1,0 +1,14 @@
+{
+  "type": "create:haunting",
+  "ingredients": [
+    {
+      "item": "minecraft:kelp"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.01,
+      "item": "minecraft:cactus"
+    }
+  ]
+}

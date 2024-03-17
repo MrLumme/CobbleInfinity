@@ -1,0 +1,14 @@
+{
+  "type": "create:haunting",
+  "ingredients": [
+    {
+      "item": "minecraft:jungle_sapling"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.01,
+      "item": "minecraft:cherry_sapling"
+    }
+  ]
+}

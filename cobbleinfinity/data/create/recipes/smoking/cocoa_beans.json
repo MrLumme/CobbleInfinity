@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "cookingtime": 100,
+  "experience": 0.0,
+  "ingredient": {
+    "item": "minecraft:wheat_seeds"
+  },
+  "chance": 0.01,
+  "result": "minecraft:cocoa_beans"
+}

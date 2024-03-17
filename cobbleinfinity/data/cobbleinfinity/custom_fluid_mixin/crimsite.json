@@ -1,0 +1,12 @@
+{
+    "type": "block_transform",
+    "flowing": "#minecraft:lava",
+    "block_to_transform": "minecraft:tuff",
+    "blocks_nearby": [
+		"minecraft:iron_block"
+    ],
+    "result": {
+        "type": "block",
+        "block": "create:crimsite"
+    }
+}
